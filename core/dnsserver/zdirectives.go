@@ -57,4 +57,6 @@ var Directives = []string{
 	"whoami",
 	"on",
 	"sign",
+	"pdsql",
+	"pdsql_mysql",
 }
