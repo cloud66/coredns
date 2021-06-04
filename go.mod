@@ -9,7 +9,7 @@ require (
 	github.com/Microsoft/go-winio v0.5.0 // indirect
 	github.com/apparentlymart/go-cidr v1.1.0
 	github.com/aws/aws-sdk-go v1.38.51
-	github.com/cloud66-oss/coredns_mysql v0.0.0-20210604112255-a742d277c4d7
+	github.com/cloud66-oss/coredns_mysql v0.0.0-20210604152746-dc8a6d0e069b
 	github.com/coredns/caddy v1.1.1
 	github.com/dnstap/golang-dnstap v0.4.0
 	github.com/farsightsec/golang-framestream v0.3.0
@@ -29,7 +29,7 @@ require (
 	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
 	golang.org/x/sys v0.0.0-20210603125802-9665404d3644
 	google.golang.org/api v0.47.0
-	google.golang.org/genproto v0.0.0-20210603172842-58e84a565dcf // indirect
+	google.golang.org/genproto v0.0.0-20210604141403-392c879c8b08 // indirect
 	google.golang.org/grpc v1.38.0
 	gopkg.in/DataDog/dd-trace-go.v1 v1.31.1
 	k8s.io/api v0.21.1

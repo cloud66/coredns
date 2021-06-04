@@ -120,6 +120,8 @@ github.com/clbanning/x2j v0.0.0-20191024224557-825249438eec/go.mod h1:jMjuTZXRI4
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
 github.com/cloud66-oss/coredns_mysql v0.0.0-20210604112255-a742d277c4d7 h1:RYBq8LDDUW5SS/IikbjDQTZNH6JwDEfVLLRLgtEQN6k=
 github.com/cloud66-oss/coredns_mysql v0.0.0-20210604112255-a742d277c4d7/go.mod h1:+70Z8VLghl4oUUUOU6jQ8Uz9aosEhL72Z4LyWSk2eeA=
+github.com/cloud66-oss/coredns_mysql v0.0.0-20210604152746-dc8a6d0e069b h1:KS9eHI4TPJS8LGQyq5bGHg6Cu/oQ6C+AzRmJ3SSH4Xs=
+github.com/cloud66-oss/coredns_mysql v0.0.0-20210604152746-dc8a6d0e069b/go.mod h1:+70Z8VLghl4oUUUOU6jQ8Uz9aosEhL72Z4LyWSk2eeA=
 github.com/cncf/udpa/go v0.0.0-20191209042840-269d4d468f6f/go.mod h1:M8M6+tZqaGXZJjfX53e64911xZQV5JYwmTeXPW+k8Sc=
 github.com/cncf/udpa/go v0.0.0-20200629203442-efcf912fb354/go.mod h1:WmhPx2Nbnhtbo57+VJT5O0JRkEi1Wbu0z5j0R8u5Hbk=
 github.com/cncf/udpa/go v0.0.0-20201120205902-5459f2c99403/go.mod h1:WmhPx2Nbnhtbo57+VJT5O0JRkEi1Wbu0z5j0R8u5Hbk=
@@ -909,6 +911,8 @@ google.golang.org/genproto v0.0.0-20210402141018-6c239bbf2bb1/go.mod h1:9lPAdzaE
 google.golang.org/genproto v0.0.0-20210513213006-bf773b8c8384/go.mod h1:P3QM42oQyzQSnHPnZ/vqoCdDmzH28fzWByN9asMeM8A=
 google.golang.org/genproto v0.0.0-20210603172842-58e84a565dcf h1:3oVOonZQld/0ddUsMXCnkhem95RnnQEUMZQLJP1s3jQ=
 google.golang.org/genproto v0.0.0-20210603172842-58e84a565dcf/go.mod h1:UODoCrxHCcBojKKwX1terBiRUaqAsFqJiF615XL43r0=
+google.golang.org/genproto v0.0.0-20210604141403-392c879c8b08 h1:pc16UedxnxXXtGxHCSUhafAoVHQZ0yXl8ZelMH4EETc=
+google.golang.org/genproto v0.0.0-20210604141403-392c879c8b08/go.mod h1:UODoCrxHCcBojKKwX1terBiRUaqAsFqJiF615XL43r0=
 google.golang.org/grpc v1.17.0/go.mod h1:6QZJwpn2B+Zp71q/5VxRsJ6NXXVCE5NRUHRo+f3cWCs=
 google.golang.org/grpc v1.19.0/go.mod h1:mqu4LbDTu4XGKhr4mRzUsmM4RtVoemTSY81AxZiDr8c=
 google.golang.org/grpc v1.20.0/go.mod h1:chYK+tFQF0nDUGJgXMSgLCQk3phJEuONr2DCgLDdAQM=
