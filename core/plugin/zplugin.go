@@ -4,6 +4,7 @@ package plugin
 
 import (
 	// Include all plugins.
+	_ "github.com/cloud66-oss/coredns_mysql"
 	_ "github.com/coredns/caddy/onevent"
 	_ "github.com/coredns/coredns/plugin/acl"
 	_ "github.com/coredns/coredns/plugin/any"
@@ -51,6 +52,4 @@ import (
 	_ "github.com/coredns/coredns/plugin/trace"
 	_ "github.com/coredns/coredns/plugin/transfer"
 	_ "github.com/coredns/coredns/plugin/whoami"
-	_ "github.com/jinzhu/gorm/dialects/mysql"
-	_ "github.com/khash/coredns-pdsql"
 )
