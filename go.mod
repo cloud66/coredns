@@ -9,7 +9,7 @@ require (
 	github.com/Microsoft/go-winio v0.5.0 // indirect
 	github.com/apparentlymart/go-cidr v1.1.0
 	github.com/aws/aws-sdk-go v1.38.51
-	github.com/cloud66-oss/coredns_mysql v1.0.0
+	github.com/cloud66-oss/coredns_mysql v0.0.0-20210604105024-1c810090c81d
 	github.com/coredns/caddy v1.1.1
 	github.com/dnstap/golang-dnstap v0.4.0
 	github.com/farsightsec/golang-framestream v0.3.0
@@ -36,5 +36,3 @@ require (
 	k8s.io/client-go v0.21.1
 	k8s.io/klog v1.0.0
 )
-
-replace github.com/cloud66-oss/coredns_mysql => /Users/khash/work/go/src/github.com/cloud66-oss/coredns_mysql
