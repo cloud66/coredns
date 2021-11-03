@@ -122,6 +122,10 @@ github.com/cloud66-oss/coredns_mysql v0.0.0-20210604112255-a742d277c4d7 h1:RYBq8
 github.com/cloud66-oss/coredns_mysql v0.0.0-20210604112255-a742d277c4d7/go.mod h1:+70Z8VLghl4oUUUOU6jQ8Uz9aosEhL72Z4LyWSk2eeA=
 github.com/cloud66-oss/coredns_mysql v0.0.0-20210604152746-dc8a6d0e069b h1:KS9eHI4TPJS8LGQyq5bGHg6Cu/oQ6C+AzRmJ3SSH4Xs=
 github.com/cloud66-oss/coredns_mysql v0.0.0-20210604152746-dc8a6d0e069b/go.mod h1:+70Z8VLghl4oUUUOU6jQ8Uz9aosEhL72Z4LyWSk2eeA=
+github.com/cloud66-oss/coredns_mysql v0.0.0-20210607085342-f68044cd6905 h1:vLCimvRfDOChR36Xj2EnHl02+mT/xYtrvV7u83Cq96U=
+github.com/cloud66-oss/coredns_mysql v0.0.0-20210607085342-f68044cd6905/go.mod h1:+70Z8VLghl4oUUUOU6jQ8Uz9aosEhL72Z4LyWSk2eeA=
+github.com/cloud66-oss/coredns_mysql v0.0.0-20211103112301-1d1ebf595bb1 h1:TcKm55iS9RZgMDVW0FdHat+wt0nB2D8AstkoQzygwx4=
+github.com/cloud66-oss/coredns_mysql v0.0.0-20211103112301-1d1ebf595bb1/go.mod h1:+70Z8VLghl4oUUUOU6jQ8Uz9aosEhL72Z4LyWSk2eeA=
 github.com/cncf/udpa/go v0.0.0-20191209042840-269d4d468f6f/go.mod h1:M8M6+tZqaGXZJjfX53e64911xZQV5JYwmTeXPW+k8Sc=
 github.com/cncf/udpa/go v0.0.0-20200629203442-efcf912fb354/go.mod h1:WmhPx2Nbnhtbo57+VJT5O0JRkEi1Wbu0z5j0R8u5Hbk=
 github.com/cncf/udpa/go v0.0.0-20201120205902-5459f2c99403/go.mod h1:WmhPx2Nbnhtbo57+VJT5O0JRkEi1Wbu0z5j0R8u5Hbk=
